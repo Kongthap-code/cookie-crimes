@@ -1,4 +1,4 @@
-# Cookie_Crimes 🔐
+# cookie-crimes 🔐
 
 Cookie_Crimes is a tool designed to extract cookies from a client's Chrome browser.  
 With just a single click, all cookies stored in the browser will be captured and immediately sent to a specified server.
